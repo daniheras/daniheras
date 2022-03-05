@@ -2,7 +2,7 @@
 
 ---
 
-I am a passionate frontend developer in love with javascript. In my day to day work with typescript and top frameworks. I am highly experienced in Angular and I am fluent in React and Vue. :wink:
+I am a passionate frontend developer in love with javascript. In my daily work I work with typescript and the top frameworks. I am highly experienced in Angular and I am fluent in React and Vue. :wink:
 
 
 ### Tech & Tools Preference
